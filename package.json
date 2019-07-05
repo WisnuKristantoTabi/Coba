@@ -1,0 +1,22 @@
+{
+  "name": "coba",
+  "version": "1.0.0",
+  "description": "cuman coba",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WisnuKristantoTabi/Coba.git"
+  },
+  "keywords": [
+    "coba"
+  ],
+  "author": "wisnu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WisnuKristantoTabi/Coba/issues"
+  },
+  "homepage": "https://github.com/WisnuKristantoTabi/Coba#readme"
+}
